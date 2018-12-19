@@ -35,7 +35,7 @@ def part1(filename):
 def part2(filename):
     codes = []
     correct_ids = ()
-    # Extra all lines into array
+    # Extract all lines into array
     with open(filename) as f:
         codes = [line.rstrip() for line in f]
     for i in range(len(codes)):
