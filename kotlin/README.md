@@ -1,8 +1,8 @@
 # advent-of-code-2018
 https://adventofcode.com/ 
 
-## Python Usage
+## Kotlin Usage
 For each day
 ```
-Usage: python day0X.py part[1|2] <input_file>
+Usage: kotlinr day0X.kt
 ```
